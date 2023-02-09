@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod utility hello
+chmod MODE hello 
