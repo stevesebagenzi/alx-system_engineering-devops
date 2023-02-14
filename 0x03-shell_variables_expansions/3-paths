@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | grep ^d | wc -l PATH
+echo $(printf $PATH | tr ":" "\n" | wc -w)
