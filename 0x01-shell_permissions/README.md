@@ -1,1 +1,1 @@
-Command to switch user to another user
+Command to switch user to another user.
